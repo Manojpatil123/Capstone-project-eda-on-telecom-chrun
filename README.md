@@ -11,8 +11,6 @@ If a consumer unsubscribes a membership with one company and becomes a customer 
 
 Our major goal in this project is to identify reasons for customer chrun by doing analysis features such as the plans, which in our case is a brief summary description of the customer plans.
 
-image
-
 -----------------------------------------------------
 
 📖 Abstract:
